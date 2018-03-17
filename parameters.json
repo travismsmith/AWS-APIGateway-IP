@@ -1,0 +1,10 @@
+[
+  {
+    "ParameterKey": "Name",
+    "ParameterValue": "APIGateway-IP"
+  },
+  {
+    "ParameterKey": "DomainName",
+    "ParameterValue": "api.example.com"
+  }
+]
